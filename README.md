@@ -57,5 +57,5 @@ baddns -l
 ```
 baddns -n 1.1.1.1 subdomaintocheck.example.com
 ```
-
+## Documentation
 Please visit our full [documentation](https://www.blacklanternsecurity.com/baddns) for many more details, including information about specific BadDNS modules.
