@@ -59,3 +59,6 @@ baddns -n 1.1.1.1 subdomaintocheck.example.com
 ```
 ## Documentation
 Please visit our full [documentation](https://www.blacklanternsecurity.com/baddns) for many more details, including information about specific BadDNS modules.
+
+### Acknowledgements
+BadDNS signatures are primarily adapted from [Nuclei Templates](https://github.com/projectdiscovery/nuclei-templates) and from [dnsReaper](https://github.com/punk-security/dnsReaper) by [Punk Security](https://punksecurity.co.uk/), and based on community discussions taking place at [can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz/issues).
